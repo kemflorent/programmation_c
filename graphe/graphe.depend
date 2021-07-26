@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516352793 source:/home/florent/Music/projet_MIAGE_1/graphe/main.c
+	<stdio.h>
+	<stdlib.h>
+

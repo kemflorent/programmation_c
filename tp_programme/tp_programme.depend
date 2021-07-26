@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1525359994 source:/home/florent/Music/projet_MIAGE_1/tp_programme/Objets.c
+	"Objets.h"
+
+1525550879 /home/florent/Music/projet_MIAGE_1/tp_programme/Objets.h
+
+1525419930 source:/home/florent/Music/projet_MIAGE_1/tp_programme/main.c
+	<stdio.h>
+	<stdlib.h>
+	"MenuPrincipal.h"
+
+1525465039 source:/home/florent/Music/projet_MIAGE_1/tp_programme/Classe.c
+	<stdio.h>
+	<stdlib.h>
+	"Objets.h"
+	"Classe.h"
+	"Recherches.h"
+	"MenuPrincipal.h"
+
+1525418409 /home/florent/Music/projet_MIAGE_1/tp_programme/Classe.h
+
+1525434303 /home/florent/Music/projet_MIAGE_1/tp_programme/Recherches.h
+
+1526124870 source:/home/florent/Music/projet_MIAGE_1/tp_programme/EC.c
+	<stdio.h>
+	<stdlib.h>
+	"Objets.h"
+	"EC.h"
+	"Recherches.h"
+	"MenuPrincipal.h"
+
+1525418307 /home/florent/Music/projet_MIAGE_1/tp_programme/EC.h
+
+1525418379 /home/florent/Music/projet_MIAGE_1/tp_programme/UE.h
+
+1525418447 /home/florent/Music/projet_MIAGE_1/tp_programme/Programme.h
+
+1526124531 source:/home/florent/Music/projet_MIAGE_1/tp_programme/Programme.c
+	<stdio.h>
+	<stdlib.h>
+	"Objets.h"
+	"Programme.h"
+	"Recherches.h"
+	"MenuPrincipal.h"
+
+1525724086 source:/home/florent/Music/projet_MIAGE_1/tp_programme/Recherches.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Recherches.h"
+	"Objets.h"
+
+1526124748 source:/home/florent/Music/projet_MIAGE_1/tp_programme/UE.c
+	<stdio.h>
+	<stdlib.h>
+	"Objets.h"
+	"EC.h"
+	"UE.h"
+	"Recherches.h"
+	"MenuPrincipal.h"
+
+1525419930 /home/florent/Music/projet_MIAGE_1/tp_programme/MenuPrincipal.h
+
+1525419907 source:/home/florent/Music/projet_MIAGE_1/tp_programme/MenuPrincipal.c
+	<stdio.h>
+	<stdlib.h>
+	"Recherches.h"
+	"EC.h"
+	"Classe.h"
+	"UE.h"
+	"Programme.h"
+	"MenuPrincipal.h"
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1513604680 source:/home/florent/Music/projet_MIAGE_1/tri_vecteur/main.c
+	<stdio.h>
+	<stdlib.h>
+
